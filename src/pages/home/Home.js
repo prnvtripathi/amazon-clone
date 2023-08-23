@@ -5,6 +5,7 @@ import Slider from '../../components/carousel/Carousel';
 import products from '../../ProductData';
 
 // This is a comment ingnore while commiting to main
+//Pull 2
 
 
 function Home(props) {
