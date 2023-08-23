@@ -4,6 +4,9 @@ import Product from '../../components/product/Product';
 import Slider from '../../components/carousel/Carousel';
 import products from '../../ProductData';
 
+// This is a comment ingnore while commiting to main
+
+
 function Home(props) {
   const [show, setShow] = useState(false);
 
